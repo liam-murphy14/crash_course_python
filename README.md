@@ -1,0 +1,2 @@
+# Crash Course Python
+This is a repo of all the practice problems and projects from the book Crash Course Python. All credit to the authors. This sort of serves to document my progress over my time learning python. It is now my language of choice, but when I started these problems from this book, I had absolutely no experience in it whatsoever. This book turned me into a python enthusiast, and for that I am grateful. I am glad that I was able to teach myself this valuable skill.
